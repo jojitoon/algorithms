@@ -13,7 +13,7 @@ const listContruct = (target, words) => {
 
 console.log(listContruct('ab', ['a', 'b', 'ab']));
 console.log(
-  listContruct('eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeef', [
+  listContruct('eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee', [
     'e',
     'ee',
     'eee',
